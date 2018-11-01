@@ -1,4 +1,4 @@
-# CATS
+# CATS - This project is no longer actively maintained. 
 [Cable Automated Test Solution (CATS)](https://github.com/Comcast/cats/) is a pre-integrated software bundle that provides a common framework for validating customer-premises equipment (CPE) for functional testing and stability tests. The CATS automation framework can be used by the broadcast community for improving the amount, type and quality of auto-mated testing. CATS focuses on manual and automated Set top usage through IR and Power Control used for video inspection.
 
 ## Benefits
